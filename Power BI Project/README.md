@@ -4,11 +4,11 @@
 
 
 
-### This involved cleaning and transforming data using Power Query.
+- ### This involved cleaning and transforming data using Power Query.
 
-### Building a dashboard featuring multiple charts.
+- ### Building a dashboard featuring multiple charts.
 
-### Answering questions about the data.
+- ### Answering questions about the data.
 
-### Providing valuable insights into the roles, skills, and salaries of data professionals worldwide.
+- ### Providing valuable insights into the roles, skills, and salaries of data professionals worldwide.
 
