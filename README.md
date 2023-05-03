@@ -1,2 +1,2 @@
-# ShAI-Data-Science-Notebooks
-ShAI Data Science Tasks and Notebooks
+# ShAI-Data-Science-Training-Notebooks
+ShAI Data Science Training Tasks and Notebooks
