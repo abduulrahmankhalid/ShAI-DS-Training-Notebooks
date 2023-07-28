@@ -1,3 +1,5 @@
 # **Music Genre Classification Competition**
 
-## **Kaggle Notebook:**
+## **Kaggle Notebook: https://www.kaggle.com/code/abduulrahmankhalid/genre-classification-feature-engineering-guide**
+
+The objective of this competition was to predict the genres of a music tracks dataset. Our approach began with thorough data exploration and visualization, using bivariate and multivariate analysis techniques to gain valuable insights into the dataset. We employed comprehensive feature engineering to improve predictive performance, extracting new features and assessing their importance. exploring target encoding methods and addressing the issue of imbalanced classes. To streamline the data preprocessing steps, we developed a preprocessing pipeline for efficient data preparation. In the modeling phase, we experimented with various machine-learning models, including traditional approaches, ensemble methods, and boosting techniques. Remarkably, our efforts resulted in an outstanding performance, securing a position within the top 5 among 50 participating teams.
